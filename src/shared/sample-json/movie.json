@@ -1,0 +1,60 @@
+{
+  "plot": "A young boy, opressed by his mother, goes on an outing in the country with a social welfare group where he dares to dream of a land where the cares of his ordinary life fade.",
+  "genres": [
+    "Short",
+    "Drama",
+    "Fantasy"
+  ],
+  "runtime": 14,
+  "rated": "UNRATED",
+  "cast": [
+    "Martin Fuller",
+    "Mrs. William Bechtel",
+    "Walter Edwin",
+    "Ethel Jewett"
+  ],
+  "num_mflix_comments": 2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzMDcxMjgyNl5BMl5BanBnXkFtZTcwOTgxNjg4Mg@@._V1_SY1000_SX677_AL_.jpg",
+  "title": "The Land Beyond the Sunset",
+  "fullplot": "Thanks to the Fresh Air Fund, a slum child escapes his drunken mother for a day's outing in the country. Upon arriving, he and the other children are told a story about a mythical land of no pain. Rather then return to the slum at day's end, the lad seeks to journey to that beautiful land beyond the sunset.",
+  "languages": [
+    "English"
+  ],
+  "released": {
+    "$date": {
+      "$numberLong": "-1804377600000"
+    }
+  },
+  "directors": [
+    "Harold M. Shaw"
+  ],
+  "writers": [
+    "Dorothy G. Shore"
+  ],
+  "awards": {
+    "wins": 1,
+    "nominations": 0,
+    "text": "1 win."
+  },
+  "lastupdated": "2015-08-29 00:27:45.437000000",
+  "year": 1912,
+  "imdb": {
+    "rating": 7.1,
+    "votes": 448,
+    "id": 488
+  },
+  "countries": [
+    "USA"
+  ],
+  "type": "movie",
+  "tomatoes": {
+    "viewer": {
+      "rating": 3.7,
+      "numReviews": 53,
+      "meter": 67
+    },
+    "lastUpdated": {
+      "$date": "2015-04-27T19:06:35.000Z"
+    }
+  }
+}

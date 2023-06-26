@@ -1,0 +1,32 @@
+{
+    "from": "d417d38814740a23f50b5c876e226445-0f700564-abbf-4b5b-beae-86a4ef410904",
+    "to": {
+      "externalUserId": "customer_21234"
+    },
+    "text": "This Message was sent by targeting exact externalUserId.",
+    "validityPeriod": 30,
+    "validityPeriodTimeUnit": "MINUTES",
+    "customPayload": {
+      "targetUrl": "www.someDomain.com",
+      "someData": "someData"
+    },
+    "notificationOptions": {
+      "soundEnabled": false,
+      "badge": 1,
+      "contentUrl": "https://www.mydomain.com/images/image1.jpg",
+      "category": "mm_accept_decline",
+      "showInApp": true,
+      "inAppExpirationPeriod": 6,
+      "inAppExpirationTimeUnit": "MINUTES",
+      "inAppDismissTitle": "Close",
+      "inAppOpenTitle": "Show",
+      "primaryButtonAction": {
+        "resource": "http://someurl.com",
+        "type": "WEB_VIEW_URL"
+      },
+      "inboxTopic": "Promotion"
+    },
+    "notifyUrl": "https://example.com",
+    "notifyContentType": "application/json",
+    "callbackData": "DLR callback data"
+  }

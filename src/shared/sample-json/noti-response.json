@@ -1,0 +1,28 @@
+{
+    "body": "Selamat Hari Raya Aidilfitri, Maaf Zahir dan Batin. Di kesempatan ini kami di ETIQA Takaful & Insurance ingin mengucapkan Selamat Hari Raya Aidilfitri, Maaf Zahir dan Batin. Salam Aidilfitri. Semoga kita termasuk orang-orang yang sentiasa bersyukur dan diterima amalan kita sepanjang bulan Ramadhan yang mulia ini.",
+    "category": "mm_accept_decline",
+    "customPayload": {
+      "name": "Wee Yuu Cheng",
+      "noMeVerified": false,
+      "isPaidAcc": true,
+      "staffId": 8000
+    },
+    "deeplink": "https://www.youtube.com/",
+    "destination": "",
+    "from": "",
+    "inAppDismissTitle": "Close",
+    "inAppExpiryTimestamp": 1683992601586,
+    "inAppOpenTitle": "Show",
+    "inAppStyle": "BANNER",
+    "internalData": "{\"inAppStyle\":\"BANNER\",\"bulkId\":\"jgao8szlrflih1xcssxv\",\"sendDateTime\":1.683819801586E12,\"inAppDismissTitle\":\"Close\",\"inApp\":true,\"inAppExpiryDateTime\":1.683992601586E12,\"deeplink\":\"https://www.youtube.com/\",\"inAppOpenTitle\":\"Show\",\"atts\":[]}",
+    "messageId": "1683819801582618715",
+    "receivedTimestamp": 1683819801605,
+    "seenTimestamp": 1683819803240,
+    "sentTimestamp": 1683819801586,
+    "silent": false,
+    "sound": "default",
+    "status": "UNKNOWN",
+    "statusMessage": "",
+    "title": "Selamat Hari Raya",
+    "vibrate": true
+  }
